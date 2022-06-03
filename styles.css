@@ -1,0 +1,55 @@
+body{
+    background-color: #793d3d;
+    text-align: center;
+}
+#navbar{
+    height: auto;
+    background-color: rgba(252, 246, 246, 0);
+    border-radius: 10px;
+    float: right;
+    overflow: hidden;
+}
+.navbar-li{
+
+font-family:Arial;
+border-radius: 10px;
+margin-right:10px;
+padding:10px 10px;
+float: right;
+font: 17px;
+
+}
+a[href] {
+    color: antiquewhite;  
+  }
+
+#intro{
+    margin-top: 400px;
+    text-align: center;
+    font-size: 30px;
+    color: antiquewhite;
+    background-color: #fcf8f815;
+    border-radius: 10px;
+    display: inline-block;
+}
+#dicethumb{
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-top: 0%;
+    width: 33%;
+    ;
+}
+#dicehead{
+    text-align: center;
+    padding-top: 5%;
+}
+#topgamesthumb{
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-top: 0%;
+    width: 33%;
+}
+#tophead{
+    text-align: center;
+    padding-top: 5%;
+}
