@@ -53,3 +53,33 @@ a[href] {
     text-align: center;
     padding-top: 5%;
 }
+#blurb{
+    color: antiquewhite;
+    font-size: larger;
+    flex-direction: column;
+    padding-top: 200px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+ #status{
+     padding-top: 50px;
+     color: antiquewhite;
+     text-decoration: underline;
+
+ }
+ #banner{
+     display: flex;
+     flex-wrap:nowrap;
+     padding-top: 10vh;
+
+ }
+#banner span img{
+    width: 33vw;
+}
+.jads{
+    padding-top: 5vh;
+}
+#self{
+    display:flex;
+    padding-left: 50vw;
+}
